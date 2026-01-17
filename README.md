@@ -36,3 +36,8 @@ Returns a valid HTTP/1.1 response
 Works on any Linux distribution
 
 Small and educational codebase
+
+
+this was devoloped in Mint linux 
+future steps making a framework out if it 
+
